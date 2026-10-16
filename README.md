@@ -1,5 +1,9 @@
 # AI+ Studio Workshop Website
 
+## Live website
+
+[Visit Sharaan’s AI+ Studio](https://gitty-hash.github.io/AI-Studio-Website-Sharaan/)
+
 A responsive workshop showcase with University of Arizona Libraries visual branding, workshop search and category filters, and interactive topic previews.
 
 The Intro to Gemini Notebook workshop links to https://github.com/gitty-hash/Intro-to-Gemini-Notebook.
