@@ -1,4 +1,4 @@
-# AI+ Studio Workshop Website
+# Sharaan's AI+ Studio Workshop Website
 
 ## Live website
 
